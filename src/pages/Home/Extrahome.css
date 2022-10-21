@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Glory:wght@100;200;300;400;500;600;700&family=League+Spartan:wght@100;200;300;400;500;600;700;800;900&family=Macondo&family=Montez&family=Syne:wght@400;500;600;700;800&display=swap');
+
+.font{
+    font-family: 'Cinzel Decorative', cursive;
+    font-family: 'Glory', sans-serif;
+    font-family: 'League Spartan', sans-serif;
+    font-family: 'Macondo', cursive;
+    font-family: 'Montez', cursive;
+    font-family: 'Syne', sans-serif;
+
+}
+.logo.font {
+    background: #313131;
+    color: white;
+}
+
+h6.rafin {
+    font-family: 'Syne';
+    font-weight: 800;
+    font-size: 44px;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(179,13,111,1) 35%, rgba(0,212,255,1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+h6.rafin {
+    position: absolute;
+    top: 165px;
+    left: 260px;
+}
+.logo.font {
+    background: #848484;
+    color: white;
+    height: 298px;
+}
+
+
+.logo.font {
+    position: relative;
+}
+
+img.logoICon {
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(179,13,111,1) 35%, rgba(0,212,255,1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: crimson;
+    width: 280px;
+}
+
+p.ripon {
+    position: absolute;
+    top: 160px;
+    left: 274px;
+    font-family: 'Syne';
+    font-weight: 800;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgb(255 0 82) 35%, rgb(0 0 0) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.logoContainr {
+    /* display: flex; */
+    /* justify-content: center; */
+    padding: 80px;
+}
